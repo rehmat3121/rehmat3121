@@ -43,7 +43,7 @@ I'm a **Data Analyst** passionate about transforming complex datasets into actio
 
 ## 💬 Let’s Connect
 
-- 📧 Email: **mrasaifi1999@gmail.com**
+- 📧 Email: **tamhersaifi@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohd-rehmat-ali-492677281)
 - 💻 [GitHub](https://github.com/rehmat3121)
 - 📱 Phone: **+91 9717863121**
